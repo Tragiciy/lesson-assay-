@@ -4,7 +4,7 @@ public class Human {
 
     public static final int MIN_AGE = 0;
 
-    private static final int MAX_AGE = 130;
+    private static final int MAX_AGE = 131;
 
     private static final int MIN_NAME_LENGTH = 2;
 
